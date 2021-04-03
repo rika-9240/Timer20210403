@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rika.k\\source\\repos\\Timer20210403\\Timer20210403.csproj",
+      "projectUniqueName": "C:\\Users\\rika.k\\OneDrive\\ドキュメント\\GitHub\\Timer20210403\\Timer20210403.csproj",
       "projectName": "Timer20210403",
-      "projectPath": "C:\\Users\\rika.k\\source\\repos\\Timer20210403\\Timer20210403.csproj",
+      "projectPath": "C:\\Users\\rika.k\\OneDrive\\ドキュメント\\GitHub\\Timer20210403\\Timer20210403.csproj",
       "packagesPath": "C:\\Users\\rika.k\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rika.k\\source\\repos\\Timer20210403\\obj\\",
+      "outputPath": "C:\\Users\\rika.k\\OneDrive\\ドキュメント\\GitHub\\Timer20210403\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -32,7 +32,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
